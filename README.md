@@ -1,23 +1,23 @@
 # TÍTULO DO PROJETO
 
-`CURSO`
+`ANálise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Trabalho Interdiciplinar: Aplicação Móvel`
 
-`SEMESTRE`
+`4 Semestre`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Matheus Anthony Silva De Souza  
+* Luis Henrique Nicodemos Pereira
+* Lucas Felipe Freitas De Oliveira
+* Kaylan Luis Felix de Freitas Subtil
 
 ## Orientador
 
-* Nome completo do professor 1
+* Pedro Felipe Alves de Oliveira
 
 ## Instruções de utilização
 
